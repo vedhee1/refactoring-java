@@ -1,0 +1,33 @@
+2023-01-14 14:57:04.349 [main] DEBUG service.RentalInfo - Entered statement method
+2023-01-14 14:57:04.355 [main] DEBUG service.RentalInfo - Entered get amount method
+2023-01-14 14:57:04.356 [main] DEBUG service.RentalInfo - Exit get amount method
+2023-01-14 14:57:04.359 [main] DEBUG service.RentalInfo - Entered get amount method
+2023-01-14 14:57:04.359 [main] DEBUG service.RentalInfo - Exit get amount method
+2023-01-14 14:57:04.361 [main] DEBUG service.RentalInfo - Exit statement method
+2023-01-14 14:57:41.625 [main] DEBUG service.RentalInfo - Entered statement method
+2023-01-14 14:57:41.634 [main] DEBUG service.RentalInfo - Entered get amount method
+2023-01-14 14:57:41.635 [main] DEBUG service.RentalInfo - Exit get amount method
+2023-01-14 14:57:41.639 [main] DEBUG service.RentalInfo - Entered get amount method
+2023-01-14 14:57:41.639 [main] DEBUG service.RentalInfo - Exit get amount method
+2023-01-14 14:57:41.641 [main] DEBUG service.RentalInfo - Exit statement method
+2023-01-14 14:57:41.642 [main] DEBUG service.RentalInfo - Entered statement method
+2023-01-14 14:57:41.644 [main] DEBUG service.RentalInfo - Entered statement method
+2023-01-14 14:57:41.645 [main] ERROR service.RentalInfo - No Movie Found
+2023-01-14 18:31:15.598 [main] DEBUG service.RentalInfo - Entered statement method
+2023-01-14 18:31:15.605 [main] DEBUG service.RentalInfo - Entered get amount method
+2023-01-14 18:31:15.606 [main] DEBUG service.RentalInfo - Exit get amount method
+2023-01-14 18:31:15.609 [main] DEBUG service.RentalInfo - Entered get amount method
+2023-01-14 18:31:15.609 [main] DEBUG service.RentalInfo - Exit get amount method
+2023-01-14 18:31:15.611 [main] DEBUG service.RentalInfo - Exit statement method
+2023-01-14 18:31:15.613 [main] DEBUG service.RentalInfo - Entered statement method
+2023-01-14 18:31:15.613 [main] DEBUG service.RentalInfo - Entered statement method
+2023-01-14 18:31:15.614 [main] ERROR service.RentalInfo - No Movie Found
+2023-01-14 20:01:13.290 [main] DEBUG service.RentalInfo - Entered statement method
+2023-01-14 20:01:13.294 [main] DEBUG service.RentalInfo - Entered get amount method
+2023-01-14 20:01:13.299 [main] DEBUG service.RentalInfo - Exit get amount method
+2023-01-14 20:01:13.301 [main] DEBUG service.RentalInfo - Entered get amount method
+2023-01-14 20:01:13.302 [main] DEBUG service.RentalInfo - Exit get amount method
+2023-01-14 20:01:13.303 [main] DEBUG service.RentalInfo - Exit statement method
+2023-01-14 20:01:13.304 [main] DEBUG service.RentalInfo - Entered statement method
+2023-01-14 20:01:13.304 [main] DEBUG service.RentalInfo - Entered statement method
+2023-01-14 20:01:13.304 [main] ERROR service.RentalInfo - No Movie Found
